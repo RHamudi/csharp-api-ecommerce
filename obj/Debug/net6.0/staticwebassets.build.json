@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "+eGk/FOqkcs0CxDOb623Po2gY7rcRKLKsSuxQtPORi0=",
+  "Source": "api_ecommerce_dotnet",
+  "BasePath": "_content/api_ecommerce_dotnet",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
