@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ramon\\Documents\\GitHub\\api_ecommerce_dotnet\\api_ecommerce_dotnet.csproj": {}
+    "C:\\Github\\csharp-api-ecommerce\\api_ecommerce_dotnet.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ramon\\Documents\\GitHub\\api_ecommerce_dotnet\\api_ecommerce_dotnet.csproj": {
+    "C:\\Github\\csharp-api-ecommerce\\api_ecommerce_dotnet.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ramon\\Documents\\GitHub\\api_ecommerce_dotnet\\api_ecommerce_dotnet.csproj",
+        "projectUniqueName": "C:\\Github\\csharp-api-ecommerce\\api_ecommerce_dotnet.csproj",
         "projectName": "api_ecommerce_dotnet",
-        "projectPath": "C:\\Users\\Ramon\\Documents\\GitHub\\api_ecommerce_dotnet\\api_ecommerce_dotnet.csproj",
-        "packagesPath": "C:\\Users\\Ramon\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ramon\\Documents\\GitHub\\api_ecommerce_dotnet\\obj\\",
+        "projectPath": "C:\\Github\\csharp-api-ecommerce\\api_ecommerce_dotnet.csproj",
+        "packagesPath": "C:\\Users\\Gee_Vz\\.nuget\\packages\\",
+        "outputPath": "C:\\Github\\csharp-api-ecommerce\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Ramon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Gee_Vz\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -84,7 +84,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     }

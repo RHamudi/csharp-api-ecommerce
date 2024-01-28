@@ -8,6 +8,7 @@ namespace api_ecommerce_dotnet.Data
     public class DataContext : DbContext
     {
         public DbSet<User> Users { get; set; }
+
         public DataContext(DbContextOptions<DataContext> options) : base(options) { }
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
